@@ -17,5 +17,5 @@ ffmpeg: 运行前请确保树莓派上安装了 ffmpeg，
 安装方法 sudo apt install ffmpeg -y nodejs
 
 安装:
-bash <(curl -sL https://github.com/qyr001/network-rc/install.sh)
+bash <(curl -sL https://jsd.cdn.zzko.cn/gh/qyr001/network-rc@master/install.sh)
 
